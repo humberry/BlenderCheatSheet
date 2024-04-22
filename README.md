@@ -2,7 +2,7 @@
 **Editmode (TAB):**
 
 | Keys | Operation |
-| --- | --- |
+| :--- | :--- |
 | a | select all |
 | alt+a | unselect |
 | b | border select |
