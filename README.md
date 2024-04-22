@@ -1,26 +1,27 @@
 # BlenderCheatSheet
-</br>**Editmode (TAB):**
+**Editmode (TAB):**
 
-a        select all</br>
-alt+a    unselect</br>
-b        border select</br>
-shift+b  border deselect</br>
-c        circle select</br>
-shift+c  circle deselct</br>
-shift+d  duplicate (vertices in the same object)</br>
-e        extrude (strg/shift)</br>
-g        grab</br>
-p        separate selection/material/loose parts</br>
-r        rotate</br>
-s        scale</br>
-x/y/z    lock to x/y/z axis</br>
-shift+z  lock to x/y axis</br>
-shift+s  selection/cursor to ...</br>
-x        delete</br>
-strg+z   undo</br>
-shift+strg+z  redo</br>
-
-alt+LMC  loop select</br>
+| Keys | Operation |
+| --- | --- |
+| a | select all |
+| alt+a | unselect |
+| b | border select |
+| shift+b | border deselect |
+| c | circle select |
+| shift+c | circle deselct |
+| shift+d | duplicate (vertices in the same object) |
+| e | extrude (strg/shift) |
+| g | grab |
+| p | separate selection/material/loose parts |
+| r | rotate |
+| s | scale |
+| x/y/z | lock to x/y/z axis |
+| shift+z | lock to x/y axis |
+| shift+s | selection/cursor to ... |
+| x | delete |
+| strg+z | undo |
+| shift+strg+z | redo |
+| alt+LMC | loop select|
 
 a > RMC > Merge Vertices > By Distance >>> remove doubles</br>
 a > Mesh > Normals > Recalculate Flip/Outside/Inside</br>
